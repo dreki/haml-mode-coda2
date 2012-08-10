@@ -52,7 +52,7 @@
         				</begin>
         				
         				<end>
-                    <regex>\w+</regex>
+                    <regex>[-_\d\w]+</regex>
         				</end>
         				
         				<import/>
