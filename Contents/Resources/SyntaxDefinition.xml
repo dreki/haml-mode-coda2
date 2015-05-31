@@ -73,7 +73,7 @@
 
       			<state id="Ruby" usesymbolsfrommode="Ruby" useautocompletefrommode="Ruby" foldable="yes" scope="meta.default">
   			<begin><regex>[-=]</regex></begin>
-  				<end><regex>\n</regex></end>
+  				<end><regex>(?&lt;!,)\n</regex></end>
   
   				<keywords id="ERB Delimiter" useforautocomplete="no" scope="markup.processing.languageswitch">				
             <regex>\n</regex>
