@@ -59,7 +59,7 @@
 				</end>
 				<import mode="JavaScript"/>
 			</state>
-			<state id="Ruby" usesymbolsfrommode="Ruby" useautocompletefrommode="Ruby" foldable="yes" scope="meta.default">
+			<state id="Ruby" usesymbolsfrommode="Ruby" useautocompletefrommode="Ruby" foldable="no" scope="meta.default">
 				<begin>
 					<regex>[-=]</regex>
 				</begin>
