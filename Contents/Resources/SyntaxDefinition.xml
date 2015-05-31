@@ -65,7 +65,7 @@
                 </begin>
                 
                 <end>
-                    <regex>\n\s*\n</regex>
+                    <regex>\n\s*\n\s*[-=%\.#:]</regex>
                 </end>
                 
                 <import mode="JavaScript"/>
